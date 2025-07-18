@@ -1,0 +1,41 @@
+.section{
+    padding: 1rem 4rem;
+}
+section h2{
+    margin-bottom: 1rem;
+}
+section ul{
+    padding-left: 4rem;
+}
+section ul li {
+    margin-bottom: 0.5rem;
+}
+
+.skills {
+    list-style: none;
+}
+>.skills__item {
+    margin-bottom: 1rem;
+}
+.skills__label {
+    margin-bottom: 0.25rem;
+    display: block;
+}
+.skills__bar {
+    background-color: #ddd;
+    height: 1.5rem;
+    border-radius: 0.25rem;
+    overflow: hidden;
+}
+.skills__bar--fill {
+    background-color:#4a148c;
+    height: 100%;
+    text-align: center;
+    color: white;
+    line-height: 1.5rem;
+    font-size: 0.6rem;
+}
+.contact p {
+    margin-bottom: 0.5rem;
+    padding-left: 4rem;
+}
